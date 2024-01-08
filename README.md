@@ -1,2 +1,2 @@
 # Html-Portfolio
-html project
+Html Project
